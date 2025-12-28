@@ -1,0 +1,79 @@
+[
+  {
+    "year": 2007,
+    "title": "F1 Debut",
+    "description": "Made his Formula 1 debut with McLaren, becoming the first black driver in F1 history. Finished on the podium in his first race.",
+    "image": "assets/images/2007-debut.jpg",
+    "type": "milestone"
+  },
+  {
+    "year": 2008,
+    "title": "First World Championship",
+    "description": "Won his first World Championship in dramatic fashion at the Brazilian Grand Prix, becoming the youngest champion at the time.",
+    "image": "assets/images/2008-champion.jpg",
+    "type": "championship"
+  },
+  {
+    "year": 2013,
+    "title": "Joined Mercedes",
+    "description": "Made the bold move to Mercedes-AMG Petronas, a decision that would define the next era of his career.",
+    "image": "assets/images/2013-mercedes.jpg",
+    "type": "milestone"
+  },
+  {
+    "year": 2014,
+    "title": "Second World Championship",
+    "description": "Dominated the season with 11 wins, securing his second World Championship with Mercedes.",
+    "image": "assets/images/2014-champion.jpg",
+    "type": "championship"
+  },
+  {
+    "year": 2015,
+    "title": "Third World Championship",
+    "description": "Successfully defended his title with 10 race victories throughout the season.",
+    "image": "assets/images/2015-champion.jpg",
+    "type": "championship"
+  },
+  {
+    "year": 2017,
+    "title": "Fourth World Championship",
+    "description": "Won his fourth title after an intense battle, matching Alain Prost and Sebastian Vettel.",
+    "image": "assets/images/2017-champion.jpg",
+    "type": "championship"
+  },
+  {
+    "year": 2018,
+    "title": "Fifth World Championship",
+    "description": "Secured his fifth championship, joining the elite club with Juan Manuel Fangio.",
+    "image": "assets/images/2018-champion.jpg",
+    "type": "championship"
+  },
+  {
+    "year": 2019,
+    "title": "Sixth World Championship",
+    "description": "Won his sixth title, moving within one of Michael Schumacher's record.",
+    "image": "assets/images/2019-champion.jpg",
+    "type": "championship"
+  },
+  {
+    "year": 2020,
+    "title": "Seventh World Championship",
+    "description": "Equaled Michael Schumacher's record of 7 World Championships with a dominant season.",
+    "image": "assets/images/2020-champion.jpg",
+    "type": "championship"
+  },
+  {
+    "year": 2021,
+    "title": "100th Race Win",
+    "description": "Became the first driver in F1 history to reach 100 Grand Prix victories.",
+    "image": "assets/images/2021-100wins.jpg",
+    "type": "milestone"
+  },
+  {
+    "year": 2024,
+    "title": "Continued Legacy",
+    "description": "Continues to inspire millions and advocate for diversity and sustainability in motorsport.",
+    "image": "assets/images/2024-legacy.jpg",
+    "type": "milestone"
+  }
+]

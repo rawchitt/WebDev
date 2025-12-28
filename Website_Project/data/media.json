@@ -1,0 +1,83 @@
+[
+    {
+        "id": 1,
+        "type": "photo",
+        "url": "assets/images/gallery/victory-celebration.jpg",
+        "thumbnail": "assets/images/gallery/victory-celebration.jpg",
+        "title": "Victory Celebration",
+        "year": 2020,
+        "event": "Turkish GP"
+    },
+    {
+        "id": 2,
+        "type": "photo",
+        "url": "assets/images/gallery/podium-finish.jpg",
+        "thumbnail": "assets/images/gallery/podium-finish.jpg",
+        "title": "Podium Finish",
+        "year": 2021,
+        "event": "British GP"
+    },
+    {
+        "id": 3,
+        "type": "photo",
+        "url": "assets/images/gallery/qualifying-session.jpg",
+        "thumbnail": "assets/images/gallery/qualifying-session.jpg",
+        "title": "Qualifying Session",
+        "year": 2022,
+        "event": "Monaco GP"
+    },
+    {
+        "id": 4,
+        "type": "photo",
+        "url": "assets/images/gallery/championship-highlights.jpg",
+        "thumbnail": "assets/images/gallery/championship-highlights.jpg",
+        "title": "Championship Highlights",
+        "year": 2020,
+        "event": "Season Review"
+    },
+    {
+        "id": 5,
+        "type": "photo",
+        "url": "assets/images/gallery/team-strategy.jpg",
+        "thumbnail": "assets/images/gallery/team-strategy.jpg",
+        "title": "Team Strategy",
+        "year": 2023,
+        "event": "Singapore GP"
+    },
+    {
+        "id": 6,
+        "type": "interview",
+        "url": "assets/images/gallery/post-race-interview.jpg",
+        "thumbnail": "assets/images/gallery/post-race-interview.jpg",
+        "title": "Post-Race Interview",
+        "year": 2021,
+        "event": "Abu Dhabi GP"
+    },
+    {
+        "id": 7,
+        "type": "photo",
+        "url": "assets/images/gallery/overtaking-maneuver.jpg",
+        "thumbnail": "assets/images/gallery/overtaking-maneuver.jpg",
+        "title": "Overtaking Maneuver",
+        "year": 2019,
+        "event": "German GP"
+    },
+    {
+        "id": 8,
+        "type": "photo",
+        "url": "assets/images/gallery/best-moments-2019.jpg",
+        "thumbnail": "assets/images/gallery/best-moments-2019.jpg",
+        "title": "Best Moments 2019",
+        "year": 2019,
+        "event": "Season Review"
+    },
+    {
+        "id": 9,
+        "type": "photo",
+        "url": "assets/images/gallery/pit-stop-action.jpg",
+        "thumbnail": "assets/images/gallery/pit-stop-action.jpg",
+        "title": "Pit Stop Action",
+        "year": 2024,
+        "event": "Bahrain GP"
+    }
+]

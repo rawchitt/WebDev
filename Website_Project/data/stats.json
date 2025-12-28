@@ -1,0 +1,125 @@
+{
+    "counters": {
+        "championships": 7,
+        "raceWins": 103,
+        "podiums": 197,
+        "polePositions": 104,
+        "followers": 37500000
+    },
+    "yearlyWins": {
+        "labels": [
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+        ],
+        "data": [
+            11,
+            10,
+            10,
+            9,
+            11,
+            11,
+            11,
+            10,
+            1,
+            0
+        ]
+    },
+    "skillRatings": {
+        "labels": [
+            "Qualifying",
+            "Race Craft",
+            "Consistency",
+            "Wet Weather",
+            "Overtaking",
+            "Tire Management"
+        ],
+        "data": [
+            98,
+            96,
+            97,
+            99,
+            95,
+            94
+        ]
+    },
+    "careerProgression": {
+        "labels": [
+            "2007",
+            "2008",
+            "2009",
+            "2010",
+            "2011",
+            "2012",
+            "2013",
+            "2014",
+            "2015",
+            "2016",
+            "2017",
+            "2018",
+            "2019",
+            "2020",
+            "2021",
+            "2022",
+            "2023"
+        ],
+        "points": [
+            109,
+            98,
+            49,
+            240,
+            227,
+            190,
+            189,
+            384,
+            381,
+            380,
+            363,
+            408,
+            413,
+            347,
+            387,
+            240,
+            234
+        ]
+    },
+    "achievements": [
+        {
+            "title": "Most Pole Positions",
+            "value": "104",
+            "description": "All-time record"
+        },
+        {
+            "title": "Most Grand Prix Wins",
+            "value": "103",
+            "description": "All-time record"
+        },
+        {
+            "title": "Most Podium Finishes",
+            "value": "197",
+            "description": "All-time record"
+        },
+        {
+            "title": "World Championships",
+            "value": "7",
+            "description": "Tied with Schumacher"
+        },
+        {
+            "title": "Consecutive Seasons with Win",
+            "value": "16",
+            "description": "2007-2022"
+        },
+        {
+            "title": "Points Scored",
+            "value": "4700+",
+            "description": "All-time record"
+        }
+    ]
+}
